@@ -1,0 +1,7 @@
+Flask
+requests
+pandas
+matplotlib
+numpy
+alpha_vantage
+py-invest
